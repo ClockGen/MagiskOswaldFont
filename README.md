@@ -2,8 +2,9 @@
 
 ## Description
 * A magisk module to replace default system fonts to oswald systemlessly.
-## Requirements
-* Magisk 17
+## Usage
+* Simply activate module in magisk.
+* **Important!** Don't forget to disable other font modules!
 ## Credits
 * Vernon Adams, Kalapi Gajjar, Alexei Vanyashin. Oswald is licensed under SIL Open Font License.
 ## Links
