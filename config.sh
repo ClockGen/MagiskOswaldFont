@@ -40,20 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*****************************************"
-  ui_print "  ___  ______        ___    _     ____  "
-  ui_print " / _ \/ ___\ \      / / \  | |   |  _ \ "
-  ui_print "| | | \___ \\\ \ /\ / / _ \ | |   | | | |"
-  ui_print "| |_| |___) |\ V  V / ___ \| |___| |_| |"
-  ui_print " \___/|____/  \_/\_/_/   \_\_____|____/ "
+  ui_print "******************************"
   ui_print ""
-  ui_print " _____ ___  _   _ _____ "
-  ui_print "|  ___/ _ \| \ | |_   _|"
-  ui_print "| |_ | | | |  \| | | |  "
-  ui_print "|  _|| |_| | |\  | | |  "
-  ui_print "|_|   \___/|_| \_| |_|  " 
+  ui_print "Oswald system font replacer"
   ui_print ""
-  ui_print "*****************************************"
+  ui_print "******************************"
 }
 
 ##########################################################################################
